@@ -1,0 +1,3 @@
+adxl345.c:15:6:adxl_read	1
+adxl345.c:38:6:adxl_write	1
+adxl345.c:62:6:adxl_init	1
